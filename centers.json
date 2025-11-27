@@ -1,0 +1,218 @@
+[
+    {
+        "unique_id": "Police_63208",
+        "name": "Cubbon Park PS",
+        "address": "Kasturba Rd",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.977662630310606,
+        "lon": 77.60059460117049
+    },
+    {
+        "unique_id": "Police_85862",
+        "name": "Indiranagar PS",
+        "address": "12th Main",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.979984697216926,
+        "lon": 77.64198575236671
+    },
+    {
+        "unique_id": "Hospital_54108",
+        "name": "Manipal Hospital",
+        "address": "Old Airport Rd",
+        "phone": "8121203705",
+        "p_type": "Hospital",
+        "lat": 12.96122330538941,
+        "lon": 77.64056366227733
+    },
+    {
+        "unique_id": "Hospital_65738",
+        "name": "Apollo Hospital",
+        "address": "Bannerghatta Rd",
+        "phone": "8121203705",
+        "p_type": "Hospital",
+        "lat": 12.931746212796483,
+        "lon": 77.58384773606605
+    },
+    {
+        "unique_id": "Community_68977",
+        "name": "Town Hall",
+        "address": "JC Road",
+        "phone": "8121203705",
+        "p_type": "Community",
+        "lat": 12.975998271957874,
+        "lon": 77.57084441725267
+    },
+    {
+        "unique_id": "Enforcement_20636",
+        "name": "Traffic HQ",
+        "address": "Infantry Rd",
+        "phone": "8121203705",
+        "p_type": "Enforcement",
+        "lat": 12.977910062885377,
+        "lon": 77.59826662977804
+    },
+    {
+        "unique_id": "Medical_75114",
+        "name": "Pharma Plus",
+        "address": "CMH Road",
+        "phone": "8121203705",
+        "p_type": "Medical",
+        "lat": 12.978368923622886,
+        "lon": 77.63942412922128
+    },
+    {
+        "unique_id": "Mixed_12787",
+        "name": "General Aid",
+        "address": "Central St",
+        "phone": "8121203705",
+        "p_type": "Mixed",
+        "lat": 12.974792907507272,
+        "lon": 77.57243141023001
+    },
+    {
+        "unique_id": "Pharmacy_28998",
+        "name": "bike",
+        "address": "Jayanagar, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Pharmacy",
+        "lat": 12.932417038198052,
+        "lon": 77.58378941371694
+    },
+    {
+        "unique_id": "Fire/Emergency_14574",
+        "name": "New Center",
+        "address": "Indiranagar, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Fire/Emergency",
+        "lat": 12.97902262419565,
+        "lon": 77.64181905183477
+    },
+    {
+        "unique_id": "Fire/Emergency_46941",
+        "name": "New Center 1",
+        "address": "Koramangala, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Fire/Emergency",
+        "lat": 12.9360354117538,
+        "lon": 77.62641107799634
+    },
+    {
+        "unique_id": "Fire/Emergency_47011",
+        "name": "New Center 2",
+        "address": "Majestic, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Fire/Emergency",
+        "lat": 12.977972952599291,
+        "lon": 77.57142590570335
+    },
+    {
+        "unique_id": "Fire/Emergency_80179",
+        "name": "New Center 4",
+        "address": "Jayanagar, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Fire/Emergency",
+        "lat": 12.9298391387762,
+        "lon": 77.58468283434371
+    },
+    {
+        "unique_id": "Fire/Emergency_66298",
+        "name": "New Center 3",
+        "address": "Domlur, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Fire/Emergency",
+        "lat": 12.961710289998695,
+        "lon": 77.63824266123338
+    },
+    {
+        "unique_id": "Pharmacy_19947",
+        "name": "New Center 1",
+        "address": "Domlur, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Pharmacy",
+        "lat": 12.959567291460084,
+        "lon": 77.63849263014801
+    },
+    {
+        "unique_id": "Pharmacy_11450",
+        "name": "New Center 2",
+        "address": "Majestic, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Pharmacy",
+        "lat": 12.97653588955613,
+        "lon": 77.5719577823833
+    },
+    {
+        "unique_id": "Pharmacy_96905",
+        "name": "New Center 3",
+        "address": "Whitefield, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Pharmacy",
+        "lat": 12.969862342779775,
+        "lon": 77.74878228193667
+    },
+    {
+        "unique_id": "Police_65987",
+        "name": "New Center",
+        "address": "Indiranagar, Bangalore",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.978959834662778,
+        "lon": 77.63913380966427
+    },
+    {
+        "unique_id": "Police_81749",
+        "name": "ksr1",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.980335479208438,
+        "lon": 77.63935903906153
+    },
+    {
+        "unique_id": "Police_42963",
+        "name": "ksr2",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.929096482049076,
+        "lon": 77.58498135208683
+    },
+    {
+        "unique_id": "Police_43767",
+        "name": "ssr ps",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.941914355270487,
+        "lon": 77.57562887877617
+    },
+    {
+        "unique_id": "Hospital_80823",
+        "name": "kims",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Hospital",
+        "lat": 12.970900657252306,
+        "lon": 77.74842154034164
+    },
+    {
+        "unique_id": "Consultation_77571",
+        "name": "aseb",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Consultation",
+        "lat": 13.001602407853998,
+        "lon": 77.56553705071181
+    },
+    {
+        "unique_id": "Police_81907",
+        "name": "New Center",
+        "address": "Bangalore",
+        "phone": "8121203705",
+        "p_type": "Police",
+        "lat": 12.977459363480051,
+        "lon": 77.63937150830093
+    }
+]
